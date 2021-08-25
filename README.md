@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Apoorv Garg</h1>
 <h3 align="center">A passionate Machine learning enthusiast and Full stack developer from India</h3>
 
+- 🌱 I’m currently learning **Blender**
+
+- 💬 Ask me about **Java, Python and Javascript**
+
 - 📫 How to reach me **apoorvgarg.21@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QTmFdTbrk7Do8YJniTo69A4SD5widnXe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
