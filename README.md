@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Apoorv Garg</h1>
-<h3 align="center">A passionate Machine learning enthusiast and Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer and Machine learning enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Blender**
 
