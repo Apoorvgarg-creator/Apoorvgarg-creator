@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **apoorvgarg.21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1clWe092VWR5_U7BrdNX78yPs-FECfCZ1/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1clWe092VWR5_U7BrdNX78yPs-FECfCZ1/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
