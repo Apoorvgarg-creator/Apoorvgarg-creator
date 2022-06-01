@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Apoorv Garg</h1>
 <h3 align="center">A passionate Full stack developer and Machine learning enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java, Python, Flutter and Javascript**
 
