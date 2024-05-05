@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Python, Flutter and Javascript**
 
-- 📫 How to reach me **apoorvgarg.21@gmail.com**
+- 📫 How to reach me **apoorvgarg.ms@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1clWe092VWR5_U7BrdNX78yPs-FECfCZ1/view?usp=sharing) -->
 
