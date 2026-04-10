@@ -1,113 +1,105 @@
 <h1 align="center">Apoorv Garg</h1>
-<p align="center">Software Engineer • Distributed Systems • Open Source Maintainer</p>
+<p align="center">
+Software Engineer • Distributed Systems • Open Source Maintainer
+</p>
 
 <p align="center">
-  Building production systems, scaling open source communities, and improving developer experience.
+<a href="https://apoorvgarg.in">Portfolio</a> •
+<a href="https://github.com/apoorvgarg-creator">GitHub</a> •
+<a href="https://www.linkedin.com/in/apoorv-garg-/">LinkedIn</a> •
+<a href="mailto:apoorv.portfolio@gmail.com">Email</a>
 </p>
 
 ---
 
-### What I do
+### What I work on
 
-- Build and scale **distributed systems** handling high-throughput workloads  
-- Work on **observability, data pipelines, and system reliability**  
-- Maintain and grow **open source projects and communities**  
-- Improve **onboarding and contributor experience** in large ecosystems  
-
----
-
-### Current Focus
-
-- Designing data-intensive systems  
-- Observability tooling and infrastructure  
-- Open source sustainability and governance  
-
----
-
-### Open Source Work
-
-#### Django (Python Web Framework)
-- Google Summer of Code org admin  
-- Reviewed 200+ proposals and coordinated contributors and mentors  
-- Led program execution including selections, evaluations, and contributor support  
-- Improved onboarding and collaboration across contributors  
-
-#### Observal (Observability Platform)
-- Maintainer, technical writer, and community builder  
-- Setting up documentation, contribution workflows, and onboarding guides  
-- Creating self-hosting tutorials and developer resources  
-- Building foundation for a scalable open source project  
-
-#### RoboticsAcademy (Robotics Learning Platform)
-- Technical Steering Committee member and mentor  
-- Led frontend revamp from vanilla JS to React  
-- Integrated frontend with Django backend and Docker-based robotics engine  
-- Improved onboarding and developer experience  
+- Distributed systems and high-throughput data pipelines  
+- Observability and production reliability  
+- Open source ecosystems and contributor experience  
 
 ---
 
 ### Impact
 
-- Built systems processing **1M+ events/sec with zero data loss**  
-- Reduced incident detection time by **~60% using observability tooling**  
-- Designed scalable architectures using Kafka, PostgreSQL, and event-driven systems  
-- Improved contributor onboarding across multiple open source projects  
+- Built systems processing **1M+ events/sec** with zero data loss  
+- Reduced incident detection time by **~60%** using observability tooling  
+- Designed Kafka-based architectures for fault-tolerant systems  
+- Improved onboarding across open source projects used by global contributors  
 
 ---
 
-### Selected Projects
+### Open Source
 
-**go-logql (Go)**  
-Structured query builder for Grafana Loki  
-- Eliminates string-based query building  
-- Immutable and concurrency-safe design  
-- Built-in validation before execution  
+#### Django
+- Google Summer of Code org admin  
+- Reviewed 200+ proposals and coordinated contributors and mentors  
+- Led program execution, evaluations, and contributor support  
+- Improved onboarding and contributor experience  
 
-**dj-electric (Python)**  
-Reactive UI layer for Django  
-- No need for WebSockets or custom JS  
-- Drop-in integration for real-time updates  
+#### Observal
+- Maintainer and community builder  
+- Built documentation, onboarding guides, and contribution workflows  
+- Created self-hosting and setup resources  
+- Focused on making observability tooling easier to adopt  
+
+#### RoboticsAcademy
+- Technical Steering Committee member  
+- Led frontend migration to React and system integration  
+- Mentored contributors and improved onboarding  
 
 ---
 
-### Tech Stack
+### Selected Work
 
-**Languages**  
-Python, Go, JavaScript  
+- **go-logql (Go)**  
+  https://github.com/apoorvgarg-creator/go-logql  
+  Structured query builder for Grafana Loki with validation and concurrency-safe design  
 
-**Backend & Systems**  
-Django, Kafka, Redis, PostgreSQL  
+- **dj-electric (Python)**  
+  https://github.com/apoorvgarg-creator/dj-electric  
+  Reactive UI layer for Django without WebSockets or custom JS  
+
+---
+
+### First Open Source Contribution
+
+- **Hugging Face Transformers**  
+  https://github.com/huggingface/transformers  
+  Started open source journey by contributing here  
+  Learned large-scale collaboration, code reviews, and project structure  
+
+---
+
+### Tech Focus
+
+**Backend**  
+Django, Kafka, PostgreSQL, Redis, event-driven systems  
 
 **Observability**  
 Grafana, Loki, OpenTelemetry, Jaeger  
 
-**DevOps**  
-Docker, Linux, monitoring and alerting  
+**Languages**  
+Python, Go, JavaScript  
 
 ---
 
 ### Writing and Community
 
-- Sharing learnings on system design and open source  
-- Mentoring contributors and early engineers  
-- Building communities around developer tools  
-
----
-
-### Links
-
-- Portfolio: https://apoorvgarg.in  
-- GitHub: https://github.com/apoorvgarg-creator  
-- LinkedIn: https://www.linkedin.com/in/apoorv-garg-/  
+- Share learnings on system design and open source  
+- Mentor contributors and early engineers  
+- Focus on improving developer experience in open ecosystems  
 
 ---
 
 ### Contact
 
-apoorv.portfolio@gmail.com
+📫 Email: apoorv.portfolio@gmail.com  
+🤝 Mentorship: https://topmate.io/apoorv_garg10  
+🌐 Portfolio: https://apoorvgarg.in  
 
 ---
 
 ### Note
 
-Most of my open source work across Django, Observal, and RoboticsAcademy is volunteer-driven, focused on long-term ecosystem growth, contributor experience, and project sustainability.
+Most of my work across Django, Observal, and RoboticsAcademy is volunteer-driven, focused on long-term sustainability, contributor experience, and ecosystem growth.
