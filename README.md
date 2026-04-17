@@ -37,14 +37,14 @@ Software Engineer • Distributed Systems • Open Source Maintainer
 - Led program execution, evaluations, and contributor support  
 - Improved onboarding and contributor experience  
 
-#### Observal
+#### [Observal](https://github.com/BlazeUp-AI/Observal)
 - Maintainer and community builder  
 - Built documentation, onboarding guides, and contribution workflows  
 - Created self-hosting and setup resources  
 - Focused on making observability tooling easier to adopt  
 
-#### RoboticsAcademy
-- Technical Steering Committee member  
+#### RoboticsAcademy 
+- Ex - Technical Steering Committee member  
 - Led frontend migration to React and system integration  
 - Mentored contributors and improved onboarding  
 
