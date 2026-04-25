@@ -94,8 +94,7 @@ Python, Go, JavaScript
 
 ### Contact
 
-📫 Email: apoorv.portfolio@gmail.com  
-🤝 Mentorship: https://topmate.io/apoorv_garg10  
+📫 Email: apoorv.portfolio@gmail.com
 🌐 Portfolio: https://apoorvgarg.in  
 
 ---
